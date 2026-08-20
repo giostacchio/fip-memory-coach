@@ -1,0 +1,4 @@
+import type { Metadata } from "next";
+import "./globals.css";
+export const metadata:Metadata={metadataBase:new URL("https://fip-memory-coach.giorgioanastasi76.chatgpt.site"),title:"FIP Memory Coach",description:"Fondamentali, quiz, diagrammi e simulazioni per preparare l’esame CNA.",manifest:"/manifest.webmanifest",themeColor:"#102738",appleWebApp:{capable:true,title:"FIP Memory Coach",statusBarStyle:"black-translucent"},icons:{icon:"/favicon.svg",shortcut:"/favicon.svg",apple:"/favicon.svg"},openGraph:{title:"FIP Memory Coach",description:"Ricorda. Spiega. Allena.",images:["/og.png"]},twitter:{card:"summary_large_image",title:"FIP Memory Coach",description:"Ricorda. Spiega. Allena.",images:["/og.png"]}};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="it"><body>{children}</body></html>}

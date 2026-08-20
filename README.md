@@ -11,4 +11,8 @@ Strumento interattivo per studiare i fondamentali della pallacanestro, allenare 
 - preparazione della progressione didattica
 - salvataggio locale dei progressi
 
-Applicazione realizzata per lo studio personale di Giorgio.
+## Applicazione
+
+Versione online: https://fip-memory-coach.giorgioanastasi76.chatgpt.site
+
+I contenuti sono una rielaborazione didattica personale e non includono le dispense PDF originali.
