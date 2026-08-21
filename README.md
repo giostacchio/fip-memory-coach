@@ -9,8 +9,8 @@ Strumento interattivo per studiare i fondamentali della pallacanestro, allenare 
 - fondamentali difensivi
 - fondamentali offensivi con palla
 - concetti e metodologia
-- quiz e richiamo attivo
-- 6 diagrammi con spiegazione guidata
+- quiz a catena: 6 domande progressive per ciascuno dei 56 moduli (336 passaggi di richiamo)
+- 6 diagrammi ridisegnati con attaccanti, difensori, frecce numerate e spiegazione guidata
 - simulazione della prova scritta da 30 minuti
 - preparazione della progressione didattica
 - salvataggio locale dei progressi
@@ -24,3 +24,7 @@ La prima pagina propone un percorso breve: tre richiami, controllo della rispost
 Versione online: https://fip-memory-coach.giorgioanastasi76.chatgpt.site
 
 I contenuti sono una rielaborazione didattica personale delle dispense caricate; i PDF originali non sono inclusi nel repository.
+
+## Smartphone
+
+La navigazione è organizzata su due colonne in verticale; Allenamento di oggi, quiz e diagrammi sono ottimizzati per lo schermo del telefono.
