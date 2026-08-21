@@ -4,15 +4,23 @@ Strumento interattivo per studiare i fondamentali della pallacanestro, allenare 
 
 ## Funzioni
 
-- 42 moduli tecnici e metodologici
+- 56 moduli tecnici e metodologici ordinati per percorso di studio
+- fondamentali senza palla
+- fondamentali difensivi
+- fondamentali offensivi con palla
+- concetti e metodologia
 - quiz e richiamo attivo
-- lettura dei diagrammi
+- 6 diagrammi con spiegazione guidata
 - simulazione della prova scritta da 30 minuti
 - preparazione della progressione didattica
 - salvataggio locale dei progressi
+
+## Allenamento di oggi
+
+La prima pagina propone un percorso breve: tre richiami, controllo della risposta, lettura di un diagramma e quiz. Non aggiunge nuovi contenuti: serve a ripassare senza rileggere tutto.
 
 ## Applicazione
 
 Versione online: https://fip-memory-coach.giorgioanastasi76.chatgpt.site
 
-I contenuti sono una rielaborazione didattica personale e non includono le dispense PDF originali.
+I contenuti sono una rielaborazione didattica personale delle dispense caricate; i PDF originali non sono inclusi nel repository.
