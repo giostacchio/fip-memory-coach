@@ -1,39 +1,52 @@
 # FIP Memory Coach
 
-Strumento interattivo per studiare i fondamentali della pallacanestro, allenare il richiamo attivo e preparare le prove CNA.
+Strumento interattivo per studiare i fondamentali della pallacanestro, allenare il richiamo attivo e preparare la prova scritta CNA.
 
-## Funzioni
+## Contenuti verificati
 
-- 56 moduli tecnici e metodologici ordinati per percorso di studio
-- fondamentali senza palla
-- fondamentali difensivi
-- fondamentali offensivi con palla
-- concetti e metodologia
-- quiz a catena: 6 domande progressive per ciascuno dei 56 moduli (336 passaggi di richiamo)
-- 6 diagrammi ridisegnati con attaccanti, difensori, frecce numerate e spiegazione guidata
-- simulazione della prova scritta da 30 minuti
-- preparazione della progressione didattica
-- salvataggio locale dei progressi
+- 57 schede complessive ordinate per percorso di studio
+- 47 schede allineate alla dispensa CNA caricata, riconoscibili dal marchio `CNA · DISPENSA`
+- 10 approfondimenti complementari chiaramente separati dai contenuti della dispensa
+- fondamentali senza palla, difensivi e offensivi con palla
+- tecnica, tattica, errori, tre ganci di memoria e risposta aperta da esame
+- distinzione esplicita fra contenuto CNA e rielaborazione complementare
 
-## Allenamento di oggi
+La dispensa caricata è la fonte principale per la terminologia tecnica e tattica. I PDF originali non sono inclusi nel repository.
 
-La prima pagina propone un percorso breve: tre richiami, controllo della risposta, lettura di un diagramma e quiz. Non aggiunge nuovi contenuti: serve a ripassare senza rileggere tutto.
+## Quiz memoria CNA
 
-## Applicazione
+Il quiz utilizza esclusivamente le 47 schede allineate alla dispensa. Ogni fondamentale contiene una catena di 8 richiami progressivi:
 
-Versione online: https://fip-memory-coach.giorgioanastasi76.chatgpt.site
+1. scopo del fondamentale
+2. tre punti chiave
+3. due dettagli tecnici
+4. lettura tattica
+5. errore da evitare
 
-I contenuti sono una rielaborazione didattica personale delle dispense caricate; i PDF originali non sono inclusi nel repository.
+Sono disponibili 376 passaggi di richiamo. In caso di errore vengono mostrati soluzione completa, spiegazione, correzione pratica e frase da ricordare; la domanda va poi ripetuta.
 
-## Smartphone
+## Diagrammi
 
-La navigazione è organizzata su due colonne in verticale; Allenamento di oggi, quiz e diagrammi sono ottimizzati per lo schermo del telefono.
+Sono disponibili 15 diagrammi, dai fondamentali di collaborazione alle letture più complesse:
+
+- passa e taglia, dai e vai, back-door, penetra e scarica
+- extra-pass, skip pass e close-out
+- blocco sulla palla con roll o pop
+- uscita ricciolo, post basso con taglio e rimpiazzo
+- aiuto, rotazione e seconda rotazione
+- transizione con vantaggio, rimorchio e ribaltamento
+
+I primi diagrammi rielaborano il materiale della dispensa; quelli avanzati sono esercizi originali costruiti sui concetti ufficiali CNA/FIP di spazio-tempo, vantaggio, lettura anticipata e collaborazioni. Ogni diagramma mostra la propria fonte/spunto.
+
+Riferimenti ufficiali:
+
+- [Area Tecnica CNA](https://cna.fip.it/area-tecnica-test/)
+- [Playbook CNA n. 6](https://cna.fip.it/wp-content/uploads/2023/05/playbook_n_6.pdf)
 
 ## Simulatore della prova scritta
 
-- da 1 a 3 domande aperte sui fondamentali
-- da 4 a 6 diagrammi intercambiabili
-- estrazione diversa a ogni simulazione
+- da 1 a 3 domande aperte estratte soltanto dalle schede CNA
+- da 4 a 8 diagrammi intercambiabili
 - timer da 30 minuti
 - valutazione indicativa per corrispondenza dei concetti, senza richiedere frasi identiche
 - esito complessivo, punteggio per risposta e concetti da integrare
@@ -42,8 +55,8 @@ La progressione pratica e la domanda sul book tecnico restano escluse dal simula
 
 ## Allenamento personalizzato
 
-I tre fondamentali della sessione giornaliera possono essere scelti manualmente o estratti casualmente; la scelta viene conservata nel browser del dispositivo.
+La pagina iniziale permette di scegliere o estrarre tre fondamentali esclusivamente dalla raccolta CNA. La scelta e i progressi restano salvati nel browser del dispositivo. L'interfaccia è ottimizzata anche per smartphone.
 
-## Correzione guidata del quiz
+## Applicazione
 
-Quando una risposta è errata, il quiz mostra la scelta effettuata, la soluzione completa, il motivo tecnico o tattico, come correggere il gesto o il ragionamento, il collegamento con gli altri punti del fondamentale e una frase sintetica da ripetere. Prima di avanzare è necessario riprovare la domanda.
+Versione online: https://fip-memory-coach.giorgioanastasi76.chatgpt.site
