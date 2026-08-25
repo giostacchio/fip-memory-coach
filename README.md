@@ -28,3 +28,18 @@ I contenuti sono una rielaborazione didattica personale delle dispense caricate;
 ## Smartphone
 
 La navigazione è organizzata su due colonne in verticale; Allenamento di oggi, quiz e diagrammi sono ottimizzati per lo schermo del telefono.
+
+## Simulatore della prova scritta
+
+- da 1 a 3 domande aperte sui fondamentali
+- da 4 a 6 diagrammi intercambiabili
+- estrazione diversa a ogni simulazione
+- timer da 30 minuti
+- valutazione indicativa per corrispondenza dei concetti, senza richiedere frasi identiche
+- esito complessivo, punteggio per risposta e concetti da integrare
+
+La progressione pratica e la domanda sul book tecnico restano escluse dal simulatore scritto.
+
+## Allenamento personalizzato
+
+I tre fondamentali della sessione giornaliera possono essere scelti manualmente o estratti casualmente; la scelta viene conservata nel browser del dispositivo.
