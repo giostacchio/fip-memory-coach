@@ -43,3 +43,7 @@ La progressione pratica e la domanda sul book tecnico restano escluse dal simula
 ## Allenamento personalizzato
 
 I tre fondamentali della sessione giornaliera possono essere scelti manualmente o estratti casualmente; la scelta viene conservata nel browser del dispositivo.
+
+## Correzione guidata del quiz
+
+Quando una risposta è errata, il quiz mostra la scelta effettuata, la soluzione completa, il motivo tecnico o tattico, come correggere il gesto o il ragionamento, il collegamento con gli altri punti del fondamentale e una frase sintetica da ripetere. Prima di avanzare è necessario riprovare la domanda.
